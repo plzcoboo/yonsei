@@ -3,7 +3,7 @@
 
 | 초기화면 |
 |----------|
-<img src="./first.png">
+<img src="./main.png">
 
 - 배포 URL : https://plzcoboo.github.io/yonsei/
 
