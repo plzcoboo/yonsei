@@ -281,6 +281,7 @@ const popup = () => {
     }
 
     $next.addEventListener('click', (e) => {
+        console.log(arr)
         if (cnt === $question.length - 2) {
             let count = arr.filter(item => 'yes' === item).length;
             if(count <= 3){
